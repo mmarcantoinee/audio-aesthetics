@@ -1,0 +1,241 @@
+filter,target,model_type,independent_vars,adj_r_squared,f_pvalue,n_obs,significant_vars
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness",0.12946182782591487,0.12708423221522852,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity",0.19734077801907446,0.061198430026778536,24,"content-enjoyment:production-complexity*, content-enjoyment*, production-complexity*"
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality",0.11723157551199193,0.14376732685648502,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity",0.12227498262612246,0.13667871025707679,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality",0.2331159823653305,0.040287303072741094,24,
+no_filter,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality",0.17760206307966797,0.07631305826599454,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity",0.1710246690708942,0.10948022679970802,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality",0.16016936690988792,0.12124084252999674,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality",0.2571964504070552,0.04512537300467688,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality",0.16763802711342235,0.11304652855296678,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality",0.20745498558639985,0.09899011633162083,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment",0.050675189184084424,0.1497542766913743,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness, content-usefulness",0.0911206039988085,0.08267509027282695,24,
+no_filter,unaided,explicit_vars_only,"production-complexity, production-complexity",0.04601115973273784,0.1605206492323848,24,
+no_filter,unaided,explicit_vars_only,"production-quality, production-quality",0.1733587029170991,0.024588521841117865,24,"production-quality*, production-quality*"
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding",0.1470448957474274,0.13678235203210365,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding",0.21849642226654498,0.06835366726335121,24,"content-enjoyment:production-complexity*, content-enjoyment*, production-complexity*"
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding",0.13417094594330037,0.15351577384948226,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding",0.13947979553712064,0.14643131539870824,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding",0.25615453210470673,0.04565022852357443,24,
+no_filter,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding",0.19771882759348414,0.08442932710994676,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding",0.19189362083499084,0.11362155142462635,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding",0.1804352463317056,0.12541819624484374,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding",0.2828527233564955,0.04763487858257425,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding",0.1883188321021041,0.11720644490338643,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding",0.2316944825434143,0.09953207799939942,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding",0.06283193451108093,0.19464527726367772,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding",0.10520332145983935,0.11974741074044869,24,
+no_filter,unaided,explicit_vars_only,"production-complexity, production-complexity, is-demanding",0.05794580841919417,0.20556876286958223,24,
+no_filter,unaided,explicit_vars_only,"production-quality, production-quality, is-demanding",0.19135752032662023,0.04136224592275836,24,"production-quality*, production-quality*"
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-playlist",0.08544756223382877,0.23159247475537875,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-playlist",0.1992245421254607,0.08316906873148594,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-playlist",0.07993246831293932,0.24201129250281694,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-playlist",0.1270425474596002,0.16344607275336173,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-playlist",0.1974172341810344,0.08468362094820761,24,
+no_filter,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-playlist",0.16576595668372107,0.1150575430849636,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-playlist",0.1482487505722827,0.1635385738380343,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-playlist",0.11386099776992797,0.21302496612754568,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-playlist",0.22937796148026124,0.08091613495978177,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-playlist",0.15445747486515338,0.15558975607695116,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-playlist",0.1702211012409366,0.16186532565984116,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-playlist",0.06788384117866664,0.18390591722522276,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-playlist",0.07819510358325255,0.16363263672598768,24,
+no_filter,unaided,explicit_vars_only,"production-complexity, production-complexity, is-playlist",0.09677395786788812,0.13213657639623044,24,
+no_filter,unaided,explicit_vars_only,"production-quality, production-quality, is-playlist",0.15125865466072852,0.06875457213803862,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding, is-playlist",0.10156223028475464,0.23304780758826402,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding, is-playlist",0.2216601535036995,0.0869548121610702,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding, is-playlist",0.09574074225714801,0.2429627774451942,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding, is-playlist",0.14546804802306934,0.16719401050405464,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding, is-playlist",0.21975243956236046,0.08850074255039492,24,
+no_filter,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding, is-playlist",0.18634275775964193,0.11922497476587271,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding, is-playlist",0.1690055278225836,0.1633258898875506,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding, is-playlist",0.13259496603185505,0.21143393509419073,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding, is-playlist",0.25490704525456054,0.08143524581864214,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.17557947119150674,0.15553677073433947,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.19364844898617295,0.15863247655399423,24,
+no_filter,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding, is-playlist",0.08150885637174177,0.2032243149535439,24,
+no_filter,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding, is-playlist",0.0923356818965575,0.18339307298125904,24,
+no_filter,unaided,explicit_vars_only,"production-complexity, production-complexity, is-demanding, is-playlist",0.11184347889542468,0.15167643014412038,24,
+no_filter,unaided,explicit_vars_only,"production-quality, production-quality, is-demanding, is-playlist",0.1690524105279071,0.08379052564095976,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness",0.1337243353916885,0.1216655399605415,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity",0.07208372062551305,0.22187663859292578,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality",0.17738062443091163,0.07649927053931148,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity",0.11268044861764204,0.15042463839044967,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality",0.42055405897200404,0.0028710254240465563,24,"content-usefulness:production-quality**, content-usefulness**"
+no_filter,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality",0.24531251929542763,0.034743199151952654,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity",0.0828152065086094,0.236523411658173,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality",0.3038385512281149,0.026280335729618787,24,content-usefulness*
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality",0.23127986056544925,0.059783368101410335,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality",0.29652439710999035,0.028692884948303313,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality",0.26629557182262786,0.05646333401989412,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment, content-enjoyment",0.09742726844108318,0.07540109187940183,24,
+no_filter,aided,explicit_vars_only,"content-usefulness, content-usefulness",0.026456280888075834,0.21569152988347484,24,
+no_filter,aided,explicit_vars_only,"production-complexity, production-complexity",0.10483616983704647,0.0676676604324576,24,
+no_filter,aided,explicit_vars_only,"production-quality, production-quality",0.1802983779171844,0.022148187302364584,24,"production-quality*, production-quality*"
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding",0.24868108779620812,0.0495667408392466,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding",0.18379623014760282,0.09683675715192676,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding",0.29463507625855223,0.029345724633102768,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding",0.22652962803405374,0.06285755744583009,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding",0.5506071126175947,0.0005690211382061431,24,"content-usefulness:production-quality**, content-usefulness**, production-quality*, is-demanding*"
+no_filter,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding",0.36614233401067053,0.011831653327057073,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding",0.2013301602198765,0.10456316807459562,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding",0.434632579646021,0.007496807894683745,24,"content-usefulness*, is-demanding*"
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding",0.3580428506132062,0.020448482589847876,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding",0.42691208363244315,0.008356219285428191,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding",0.40257495606479277,0.017614435669292945,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding",0.19970732695228655,0.037091393081481315,24,
+no_filter,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding",0.1253567685634216,0.09427253439391563,24,
+no_filter,aided,explicit_vars_only,"production-complexity, production-complexity, is-demanding",0.20746903317662857,0.033483499554353494,24,
+no_filter,aided,explicit_vars_only,"production-quality, production-quality, is-demanding",0.286524679736774,0.011108088850686974,24,"production-quality*, production-quality*"
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-playlist",0.08845019254675812,0.22606092750948228,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-playlist",0.0693375089372058,0.26297918630602546,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-playlist",0.13430239779913722,0.15333718107502203,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-playlist",0.09787592323547689,0.20933263273136102,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-playlist",0.39085349524143653,0.008393852901663378,24,"content-usefulness:production-quality*, content-usefulness**"
+no_filter,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-playlist",0.21714882994429663,0.06931336845773327,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-playlist",0.056217408230871846,0.3177625469209857,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-playlist",0.26646210061480813,0.0563683964208194,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-playlist",0.1957022859594022,0.10989552209665131,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-playlist",0.27065332797444863,0.054021067000211,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-playlist",0.22609200073150448,0.1043208401503269,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-playlist",0.08476261246037187,0.1517975355373902,24,
+no_filter,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-playlist",-0.0020128436218840307,0.39294325957324505,24,
+no_filter,aided,explicit_vars_only,"production-complexity, production-complexity, is-playlist",0.12444996317258206,0.09530386381086768,24,
+no_filter,aided,explicit_vars_only,"production-quality, production-quality, is-playlist",0.14439026050575277,0.07482648968516123,24,"production-quality*, production-quality*"
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding, is-playlist",0.20727820103792316,0.09914766618487696,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding, is-playlist",0.1871037016722834,0.11844455538652376,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding, is-playlist",0.2556777510265429,0.06278791370295195,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding, is-playlist",0.21722758343156934,0.09057986003870364,24,
+no_filter,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding, is-playlist",0.5264816872156375,0.0017707035123193497,24,"content-usefulness:production-quality**, content-usefulness**, production-quality*, is-demanding*"
+no_filter,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding, is-playlist",0.3431267627353236,0.024429953224692828,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding, is-playlist",0.18013925343822879,0.15029135575176555,24,
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding, is-playlist",0.4027512806682787,0.01757698841312158,24,"content-usefulness*, is-demanding*"
+no_filter,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding, is-playlist",0.3278291239743195,0.04055308210619564,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.40718905081378076,0.016655813695786177,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.36837612329561076,0.03612220051249897,24,is-demanding*
+no_filter,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding, is-playlist",0.19152344109810027,0.06535880766333628,24,
+no_filter,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding, is-playlist",0.10040921221173127,0.16966192659310875,24,
+no_filter,aided,explicit_vars_only,"production-complexity, production-complexity, is-demanding, is-playlist",0.23319515934592028,0.04024897274527948,24,"production-complexity*, production-complexity*"
+no_filter,aided,explicit_vars_only,"production-quality, production-quality, is-demanding, is-playlist",0.2541324715457499,0.03115919048999812,24,"production-quality*, production-quality*"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness",0.16405526468190224,0.12267634184644972,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity",0.3725844582767601,0.014746953975447816,20,"content-enjoyment:production-complexity**, content-enjoyment**, production-complexity**"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality",0.10479154082414399,0.1988596236747335,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity",0.02849008383602747,0.34649836379682414,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality",0.15572929107156308,0.13166063005228387,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality",0.09883644571900763,0.20822237284204315,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity",0.13991348124886294,0.1868613026292741,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality",0.1318996756795815,0.1975319494549946,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality",0.21851113173601577,0.10350810532369693,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality",0.07219925995499932,0.2910688751996407,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality",0.11688985371452632,0.25106173713062724,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment",0.02552995027638938,0.23679254260017343,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness, content-usefulness",0.12752935191774406,0.06775848743784318,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity, production-complexity",-0.039195038341358845,0.6010030682386973,20,
+is-invented-brand,unaided,explicit_vars_only,"production-quality, production-quality",0.18288303906124181,0.03418846812223343,20,"production-quality*, production-quality*"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding",0.1745334230203699,0.14556961635847804,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding",0.39696456285488846,0.018853732887698694,20,"content-enjoyment:production-complexity**, content-enjoyment**, production-complexity**"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding",0.11131878423876185,0.22694149266915162,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding",0.02993056345143552,0.3726998816414727,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding",0.16565238450267405,0.1554385667582741,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding",0.10496668279328236,0.23661318364467268,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding",0.14941566636628734,0.20701531303939186,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding",0.1408294461134859,0.2181059090884652,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding",0.23362743474538183,0.11795961259348287,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding",0.07686471498000569,0.31281385558798663,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding",0.12535192787680483,0.2679489121646007,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding",0.026626836198241466,0.308876491373332,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding",0.13462620264202885,0.11366899564204457,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity, production-complexity, is-demanding",-0.04190550469113896,0.5507456177935349,20,
+is-invented-brand,unaided,explicit_vars_only,"production-quality, production-quality, is-demanding",0.1932359890292612,0.06262613555463747,20,"production-quality*, production-quality*"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-playlist",0.14719858984806866,0.1775317574781125,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-playlist",0.4770701241716824,0.007096593854402099,20,"content-enjoyment:production-complexity**, content-enjoyment**, production-complexity**"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-playlist",0.07773710508529885,0.2813240966790584,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-playlist",0.05742446734300277,0.31814997554323443,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-playlist",0.11446620343443459,0.2222541012257417,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-playlist",0.08115188583759758,0.27542542979790896,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-playlist",0.17851737161079506,0.17225788936052536,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-playlist",0.11898533640361997,0.24805733814128894,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-playlist",0.23353510658118204,0.11803859582953505,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-playlist",0.043307316598982126,0.37076336227188167,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-playlist",0.13607547417267196,0.25361994566747054,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-playlist",0.05493434636692385,0.24034608553919742,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-playlist",0.15377557666254937,0.09398043395904108,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity, production-complexity, is-playlist",0.020266416864745174,0.32645865040028227,20,
+is-invented-brand,unaided,explicit_vars_only,"production-quality, production-quality, is-playlist",0.17034487264553433,0.07944010993916274,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding, is-playlist",0.15722113986543806,0.1972655389579659,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding, is-playlist",0.5106549266407435,0.00799976671822308,20,"content-enjoyment:production-complexity**, content-enjoyment**, production-complexity**"
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding, is-playlist",0.08279812047675261,0.3031418665345175,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding, is-playlist",0.06103458003858164,0.3394748522582075,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding, is-playlist",0.12215072585083131,0.24356248801805666,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding, is-playlist",0.086456814139932,0.2972665138924222,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding, is-playlist",0.19172002407278832,0.18669255007831412,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding, is-playlist",0.12760860154198217,0.2648959104087402,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding, is-playlist",0.2509698925024315,0.12921598118629138,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.046109195598526,0.3870375958966152,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.14684152288665409,0.2668770465128426,20,
+is-invented-brand,unaided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding, is-playlist",0.05793756241455039,0.28212756026528496,20,
+is-invented-brand,unaided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding, is-playlist",0.16295636960365212,0.1238327373030601,20,
+is-invented-brand,unaided,explicit_vars_only,"production-complexity, production-complexity, is-demanding, is-playlist",0.021102887318485197,0.36419433365613557,20,
+is-invented-brand,unaided,explicit_vars_only,"production-quality, production-quality, is-demanding, is-playlist",0.18056124658557315,0.10633883242518934,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness",0.09915590999026924,0.2077114916056904,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity",0.008721231373309712,0.3952742209795719,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality",0.21350052754016158,0.07904132392533147,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity",-0.032516288645134894,0.5115693728932786,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality",0.31574752088930913,0.02829017362619549,20,
+is-invented-brand,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality",0.12302563852518511,0.17223943945457126,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity",-0.04633770717727281,0.5497473920248985,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality",0.19175582026520788,0.12778618793349672,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality",0.11611898869693837,0.2198203178575434,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality",0.1701763392319785,0.15035068189452389,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality",0.14629442366573864,0.2110025329756331,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment, content-enjoyment",0.048527645497440264,0.17756391773757338,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness, content-usefulness",0.0757074770915993,0.1272633291987295,20,
+is-invented-brand,aided,explicit_vars_only,"production-complexity, production-complexity",-0.04250967853961485,0.6407752448018549,20,
+is-invented-brand,aided,explicit_vars_only,"production-quality, production-quality",0.2036511505985268,0.026294502776036018,20,"production-quality*, production-quality*"
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding",0.2864540794230628,0.05776154579750362,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding",0.1899904222316403,0.12952892140343406,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding",0.4084216714762805,0.01655213444682961,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding",0.1460037342119651,0.1790379689130354,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding",0.5174851310487076,0.00405390022581819,20,"content-usefulness:production-quality*, content-usefulness*, is-demanding*"
+is-invented-brand,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding",0.3119151231936399,0.045534504384604595,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding",0.14394650170303902,0.2140352898354675,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding",0.39904670967712497,0.028561021932675016,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding",0.3180072472825519,0.0606467565819145,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding",0.3759258371415226,0.035861323397226245,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding",0.3660337356016897,0.054817845206770764,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding",0.21081260296797377,0.05193276230845139,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding",0.23959124818531874,0.037871336364603075,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"production-complexity, production-complexity, is-demanding",0.1144201422228569,0.13830756312441345,20,
+is-invented-brand,aided,explicit_vars_only,"production-quality, production-quality, is-demanding",0.3750610201338307,0.00714545591013463,20,"production-quality*, production-quality*, is-demanding*"
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-playlist",0.06916904043405114,0.2964947262383809,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-playlist",0.04985352928800735,0.3326353906029486,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-playlist",0.17922507661978182,0.14055041387070377,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-playlist",-0.009840444876322518,0.4607296128413423,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-playlist",0.27018389103340223,0.0668615728210021,20,
+is-invented-brand,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-playlist",0.10452992860619825,0.2372886290806967,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-playlist",-0.0277859649477461,0.5093982024976476,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-playlist",0.13432623124669596,0.2267618761660551,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-playlist",0.1020532264143702,0.27298867874708965,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-playlist",0.12260789031822339,0.24291764556474568,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-playlist",0.08209930293516088,0.3302078562842196,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-playlist",0.06930988662070958,0.21098597038992706,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-playlist",0.10420590664925666,0.15246841190045654,20,
+is-invented-brand,aided,explicit_vars_only,"production-complexity, production-complexity, is-playlist",0.014974272698595636,0.3417547821077349,20,
+is-invented-brand,aided,explicit_vars_only,"production-quality, production-quality, is-playlist",0.1869923997610261,0.06686738979448653,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness, content-enjoyment, content-usefulness, is-demanding, is-playlist",0.26770373128659997,0.09136350902493022,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity, content-enjoyment, production-complexity, is-demanding, is-playlist",0.24700854077298062,0.10691575046377148,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-quality, content-enjoyment, production-quality, is-demanding, is-playlist",0.385620912914175,0.03263984709279315,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity, content-usefulness, production-complexity, is-demanding, is-playlist",0.18305071131119943,0.16723188365354097,20,
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-quality, content-usefulness, production-quality, is-demanding, is-playlist",0.4830767855001873,0.011290218007408821,20,"content-usefulness:production-quality*, content-usefulness*, is-demanding*"
+is-invented-brand,aided,explicit_vars_only,"production-complexity:production-quality, production-complexity, production-quality, is-demanding, is-playlist",0.305590397185329,0.06735773113710047,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity, content-enjoyment, content-usefulness, production-complexity, is-demanding, is-playlist",0.17856254786409187,0.20138117828944996,20,
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-quality, content-enjoyment, content-usefulness, production-quality, is-demanding, is-playlist",0.35314491299656803,0.060985184312519786,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:production-complexity:production-quality, content-enjoyment, production-complexity, production-quality, is-demanding, is-playlist",0.31838936933098594,0.0801673927332424,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness:production-complexity:production-quality, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.3405251612274428,0.06750797056028894,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment:content-usefulness:production-complexity:production-quality, content-enjoyment, content-usefulness, production-complexity, production-quality, is-demanding, is-playlist",0.3148006308048942,0.10420095919384144,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-enjoyment, content-enjoyment, is-demanding, is-playlist",0.2430365440033565,0.05976437821934295,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"content-usefulness, content-usefulness, is-demanding, is-playlist",0.28011356528368725,0.04127090401853751,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"production-complexity, production-complexity, is-demanding, is-playlist",0.18530495421111004,0.10198829054710339,20,is-demanding*
+is-invented-brand,aided,explicit_vars_only,"production-quality, production-quality, is-demanding, is-playlist",0.36807421421494224,0.015566414560028571,20,"production-quality*, production-quality*, is-demanding*"
