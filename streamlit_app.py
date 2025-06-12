@@ -65,8 +65,8 @@ if uploaded_file is not None:
 
         # Output
         st.subheader("Risultati")
-        st.markdown(f"**PC1 Score (Sintesi dei 4 indicatori):** {pc1_val:.3f}")
+        st.markdown(f"**Indicatore integrativo (Sintesi dei 4 indicatori):** {pc1_val:.3f}")
 
-        st.markdown("**Stima dell'aided recall:**")
-        st.write(f"Guida rilassata: {aided_relaxed:.3f}")
-        st.write(f"Guida impegnativa: {aided_demanding:.3f}")
+        st.markdown("**Stima del ricordo pubblicitario assistito:**")
+        st.write(f"Guida rilassata: {aided_relaxed * 100:.1f}%")
+        st.write(f"Guida impegnativa: {aided_demanding * 100:.1f}%")
