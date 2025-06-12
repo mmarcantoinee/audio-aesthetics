@@ -68,5 +68,5 @@ if uploaded_file is not None:
         st.markdown(f"**Indicatore integrativo (Sintesi dei 4 indicatori):** {pc1_val:.3f}")
 
         st.markdown("**Stima del ricordo pubblicitario assistito:**")
-        st.write(f"Guida rilassata: {aided_relaxed * 100:.1f}%")
-        st.write(f"Guida impegnativa: {aided_demanding * 100:.1f}%")
+        st.write(f"Guida rilassata: {aided_relaxed * 100:.0f}%")
+        st.write(f"Guida impegnativa: {aided_demanding * 100:.0f}%")
