@@ -9,7 +9,7 @@ import statsmodels.api as sm
 # Load model once
 predictor = initialize_predictor()
 
-st.title("FCP x PoliMi: proof-of-concept\nValutazione Audio Spot Radio")
+st.title("FCP x PoliMi | Valutazione Audio Spot Radio")
 st.markdown("Carica un file audio (.wav o .mp3, max 60 secondi) per ottenere:")
 st.markdown("1. Il punteggio del primo componente principale (PC1) che integra le dimensioni di (1) content-enjoyment, (2) content-usefulness, (3) production-complexity, (4) production-quality\n2. Una stima del ricordo pubblicitario assistito in condizioni di guida rilassata vs. impegnativa")
 
