@@ -65,7 +65,7 @@ if uploaded_file is not None:
 
         # Output
         st.subheader("Risultati")
-        st.markdown(f"**Indicatore integrativo (Sintesi dei 4 indicatori):** {pc1_val:.3f}")
+        st.markdown(f"**Audiobox Aesthetics Score:** {pc1_val:.3f}")
 
         st.markdown("**Stima del ricordo pubblicitario assistito:**")
         st.write(f"Guida rilassata: {aided_relaxed * 100:.0f}%")
